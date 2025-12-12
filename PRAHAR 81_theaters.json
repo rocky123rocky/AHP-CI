@@ -1,0 +1,21 @@
+{
+  "theaters": {
+    "Northern Theater": {
+      "forces": [
+        "purple",
+        "purple AF"
+      ],
+      "created_date": "2025-12-12"
+    },
+    "Western Theater": {
+      "forces": [
+        "blue"
+      ],
+      "created_date": "2025-12-12"
+    }
+  },
+  "unassigned_forces": [
+    "red",
+    "yellow"
+  ]
+}

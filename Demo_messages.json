@@ -1,0 +1,14 @@
+{
+  "conversations": {
+    "control_to_blue": [
+      {
+        "timestamp": "2025-12-12 00:27:35",
+        "sender": "control",
+        "recipient": "blue",
+        "message": "hi",
+        "message_id": 1
+      }
+    ]
+  },
+  "last_updated": "2025-12-12 00:27:35"
+}

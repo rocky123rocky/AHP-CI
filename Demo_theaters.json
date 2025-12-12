@@ -1,0 +1,26 @@
+{
+  "theaters": {
+    "Northern": {
+      "forces": [
+        "blue"
+      ],
+      "created_date": "2025-10-24"
+    },
+    "eastern": {
+      "forces": [
+        "purple",
+        "purple AF"
+      ],
+      "created_date": "2025-10-24"
+    },
+    "southern": {
+      "forces": [
+        "yellow"
+      ],
+      "created_date": "2025-10-24"
+    }
+  },
+  "unassigned_forces": [
+    "red"
+  ]
+}
